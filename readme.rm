@@ -42,11 +42,12 @@ void ft_putnbr(int nb);
 
 
 Exercise 03 : ft_atoi
-Exercise 03
-ft_atoi
+
+
 Turn-in directory : ex03/
 Files to turn in : ft_atoi.c
 Allowed functions : None
+
 • Write a function that converts the initial portion of the string pointed by str to its int
 representation
 • The string can start with an arbitray amount of white space (as determined by isspace(3))
@@ -59,10 +60,12 @@ the number found until now.
 • Here’s an example of a program that prints the atoi return value:
 $>./a.out " ---+--+1234ab567"
 -1234
+
 • Here’s how it should be prototyped :
+
 int ft_atoi(char *str);
-9
-Chapter VII
+
+
 Exercise 04 : ft_putnbr_base
 Exercise 04
 ft_putnbr_base
